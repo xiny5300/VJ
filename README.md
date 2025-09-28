@@ -77,8 +77,8 @@ future_cassette/
 
 ## 開發團隊
 
-- 開發者：[Your Name]
-- 專案維護：[Organization]
+- 開發者：[XINYU]
+- 專案維護：[XINY]
 
 ## 授權協議
 
